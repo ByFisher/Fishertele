@@ -12,9 +12,7 @@ Bu proje, Telegram gruplarındaki en aktif kullanıcıları tespit eden ve kulla
   - İncelenecek mesaj sayısı
   - Listelenecek kullanıcı sayısı
 
-## Ekran Görüntüleri
 
-tele.avif
 
 ## Kurulum
 
