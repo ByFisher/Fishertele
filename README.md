@@ -14,9 +14,7 @@ Bu proje, Telegram gruplarındaki en aktif kullanıcıları tespit eden ve kulla
 
 ## Ekran Görüntüleri
 
-![Ana Menü](screenshots/ana_menu.png)
-![Yapılandırma Ayarları](screenshots/yapilandirma.png)
-![Analiz Sonuçları](screenshots/sonuclar.png)
+tele.avif
 
 ## Kurulum
 
